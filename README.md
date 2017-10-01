@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-FCC-without-mini-max-algorithm-
+# Tic Tac Toe FCC(without-mini-max-algorithm)
